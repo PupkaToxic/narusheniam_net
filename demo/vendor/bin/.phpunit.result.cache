@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RegistrationTest::testEmptyFIO":8,"RegistrationTest::testEmptyEmail":8,"RegistrationTest::testEmptyPassword":7},"times":{"RegistrationTest::testEmptyFIO":0.5,"RegistrationTest::testEmptyEmail":0.077,"RegistrationTest::testEmptyPassword":0.002}}

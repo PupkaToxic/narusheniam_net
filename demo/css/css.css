@@ -1,0 +1,43 @@
+.body{
+    padding: 5%;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+.Text{
+    font-family:  'Inter', sans-serif;
+    text-decoration: dashed;
+}
+
+.header{
+    height:100px;
+    width: 100%;
+    background-color:	#3CA0D0;
+    display: inline-block;
+}
+.MainText{
+    color: white;
+    margin-top: 2%;
+    margin-left: 5%;
+    font-family:  'Inter', sans-serif;
+    text-decoration: dashed;
+    display: block;
+    font-size: 30px;
+    width: 30%;
+}
+.ContRegForm{
+    width: 550px;
+    height: 600px;
+    margin-top:2%;
+    background-color: aqua;
+    border-radius:3%;
+    border: 2px solid black;
+}
+.MainPage{
+    display: flex;
+    justify-content: center;
+}
+.FormMainRegText{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+

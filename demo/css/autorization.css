@@ -1,0 +1,70 @@
+.body{
+    padding: 5%;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+}
+.Text{
+    font-family:  'Inter', sans-serif;
+    text-decoration: dashed;
+    margin-left:8%;
+}
+.TextAutorizName{
+    font-family:  'Inter', sans-serif;
+    text-decoration: dashed;
+    margin-left: 30%;
+
+}
+
+
+.header{
+    height:100px;
+    width: 100%;
+    background-color:	#3CA0D0;
+    display: inline-block;
+}
+.MainText{
+    color: white;
+    margin-top: 2%;
+    margin-left: 5%;
+    font-family:  'Inter', sans-serif;
+    text-decoration: dashed;
+    display: block;
+    font-size: 30px;
+    width: 30%;
+}
+.ContAutorizForm{
+    width: 550px;
+    height: 500px;
+    margin-top:2%;
+    background-color: #ffffff;
+    border-radius:3%;
+    border: 2px solid #b9b9b9;
+}
+.MainPage{
+    display: flex;
+    justify-content: center;
+}
+.FormMainAutorizText{
+    margin-top: 15%;
+    margin-left: 10%;
+}
+
+.InputText{
+    width: 87%;
+    height: 25px;
+    background-color: aliceblue;
+    margin-top:3%;
+    border: 2px solid rgba(31, 31, 31, 0.074);
+}
+.ButtonAutoriz{
+    width: 70%;
+    height: 50px;
+    background-color: #3CA0D0;
+    border: 2px;
+    margin-top: 10%;
+    margin-left:10%;
+    border-radius: 3%;
+    color:#ffffff;
+    font-size: 120%;
+    cursor: pointer;
+}
